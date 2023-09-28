@@ -1,3 +1,3 @@
-BOT_TOKEN = '123'
+BOT_TOKEN = '6560305449:AAEwld_TpWyuU6SX7B8hoFB6yugtLqz7mCk'
 
-admin_id = 123
+admin_id = 2068182033
